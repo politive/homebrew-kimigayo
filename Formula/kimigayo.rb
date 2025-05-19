@@ -1,10 +1,8 @@
-
-
 class Kimigayo < Formula
   desc "Play Japan’s national anthem in your terminal"
   homepage "https://github.com/ysk1o/kimigayo"
   url "https://github.com/ysk1o/kimigayo/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "55b201c39596c0ff34738202f2acff21b0f2a8938f4b6eee7e449852bc716f74"
   license "MIT"
 
   depends_on "mpg123"
